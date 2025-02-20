@@ -1,0 +1,13 @@
+site_name: TxDUG
+site_url: https://txdug.org
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: deep orange
+  favicon: ""
+  features:
+    - navigation.tabs
+plugins: []
+extra_css:
+  - extra.css
