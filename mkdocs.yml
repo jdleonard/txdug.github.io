@@ -8,6 +8,7 @@ theme:
   favicon: ""
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
 plugins: []
 extra_css:
   - extra.css
