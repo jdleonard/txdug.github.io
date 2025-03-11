@@ -1,5 +1,8 @@
 site_name: TxDUG
 site_url: https://txdug.org
+repo_url: https://github.com/TxDUG/txdug.github.io
+repo_name: txdug.org
+edit_uri: edit/main/docs/
 theme:
   name: material
   palette:
@@ -7,6 +10,7 @@ theme:
     accent: deep orange
   favicon: ""
   features:
+    - content.action.edit
     - navigation.tabs
     - navigation.tabs.sticky
 plugins: []
