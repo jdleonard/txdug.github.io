@@ -9,8 +9,7 @@ hide:
 Where to find us:
 
 * [Austin Drupal Users Group](https://www.meetup.com/austin-drupal-users-group/) on meetup.com
-* [#austin](https://txdug.slack.com/archives/CP7VC3R3M) channel in TxDUG Slack (join via link at [About Us](./index.md))
-* [#austin-tx-usa](https://drupal.slack.com/archives/CA5H7MVNH) channel in Drupal Slack ([join](https://www.drupal.org/join-slack))
+* [#austin-texas](https://drupal.slack.com/archives/CA5H7MVNH) channel in Drupal Slack ([join](https://www.drupal.org/join-slack))
 
 ## Organizers
 
