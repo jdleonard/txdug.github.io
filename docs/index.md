@@ -14,35 +14,27 @@ We organize local meetups and camps.
 
 If you'd like to attend, speak at, or help organize an event we'd love to hear from you!
 
-### Online
+The first step, if you’re not already on Drupal Slack, is to join [here](https://www.drupal.org/join-slack)
 
-We have a [TxDUG slack workspace](https://txdug.slack.com) where we plan and announce events, and
-have open discussions from the community about Drupal and other related topics. If you aren't a
-member yet, [invitations to join][1] are open.
+Then join the relevant channels on Drupal Slack:
+- [#austin-texas](https://drupal.slack.com/archives/CA5H7MVNH)
+- [#drupal-houston](https://drupal.slack.com/archives/C04E8RESKQW)
+- [#north-texas](https://drupal.slack.com/archives/C08KMT22EP7)
+- [#sanantoniotx](https://drupal.slack.com/archives/C9LEAGSDN)
+- [#texas](https://drupal.slack.com/archives/C2V1HFK7G)
+- [#texas-camp](https://drupal.slack.com/archives/C5BM63849)
 
-You can also find us on the main [Drupal
-slack](https://www.drupal.org/community/contributor-guide/reference-information/talk/tools/slack).
+Please also [fill out our form](https://forms.gle/HDWQmcPZA9h2E6Ht8) to be notified by email of
+upcoming Drupal events (in the Texas regions of your choice) and to volunteer to speak at a future event.
 
 Some events are held online, or online and in-person on a case-by-case basis.
 
-### In Person
+Events are always posted on [Drupal.org's Community Events page](https://www.drupal.org/community/events)
+(filter to "Local meetup") and in the relevant local Slack channel.
 
-You can also join us at an in-person event.
-
-Participating groups:
-
- * [Austin](./austin.md)
- * Houston
-
-Currently inactive groups:
-
- * North Texas
- * San Antonio
-
-## Get In Touch
+## Get In Touch / Organize
 
 We are always looking for speakers and organizers so please contact us if you are interested in
-contributing. Best way is to join us in `#meetup-planning` on TxDUG slack.
-
-[1]:
-    https://join.slack.com/t/txdug/shared_invite/enQtODYwNDY2NDQ5MDU5LWU0ZGFmYWYxNTcxMmM3N2U3NmYxZmU2NDg0ZTVkZjNmNzQzMDFkODg3MTczZjA5MTQ1MzkzYWVhMmNiZDkxMzA
+contributing. The best way is to join us on Drupal Slack in
+[#austin-organizers](https://drupal.slack.com/archives/C08HMNLTJKB) and
+[#texas-organizers](https://drupal.slack.com/archives/C08HEDWBVE0), as appropriate.
